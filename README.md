@@ -44,6 +44,10 @@
 
 We're starting fresh under an official org. If you were using the previous npm package `capacitor-fcm`, please update your package.json to `@capacitor-community/fcm`. Check out [changelog](/CHANGELOG.md) for more info.
 
+## Developing
+
+1. Run `nvm use && npm install`
+
 ## Installation
 
 Using npm:
@@ -63,6 +67,8 @@ Sync native files:
 ```bash
 npx cap sync
 ```
+
+
 
 > ### Notice
 >
